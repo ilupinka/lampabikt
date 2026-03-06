@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lampabikt/static/css/main.cb97100a.css",
-    "main.js": "/lampabikt/static/js/main.f7fc52f1.js",
+    "main.js": "/lampabikt/static/js/main.afac10d0.js",
     "static/js/453.c402605c.chunk.js": "/lampabikt/static/js/453.c402605c.chunk.js",
     "static/media/chel.png": "/lampabikt/static/media/chel.f194c676aedc66b4d9f6.png",
     "static/media/лепестки.png": "/lampabikt/static/media/лепестки.4ac58dec106d779831aa.png",
@@ -66,11 +66,11 @@
     "static/media/ishevsk.png": "/lampabikt/static/media/ishevsk.3009c965142f9f8f6ee4.png",
     "index.html": "/lampabikt/index.html",
     "main.cb97100a.css.map": "/lampabikt/static/css/main.cb97100a.css.map",
-    "main.f7fc52f1.js.map": "/lampabikt/static/js/main.f7fc52f1.js.map",
+    "main.afac10d0.js.map": "/lampabikt/static/js/main.afac10d0.js.map",
     "453.c402605c.chunk.js.map": "/lampabikt/static/js/453.c402605c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb97100a.css",
-    "static/js/main.f7fc52f1.js"
+    "static/js/main.afac10d0.js"
   ]
 }
